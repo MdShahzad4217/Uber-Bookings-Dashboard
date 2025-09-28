@@ -46,13 +46,6 @@ This dashboard provides a complete analytical view of Uber’s operations, custo
 * Analyze **payment preferences** of customers.
 * Support **data-driven decision-making**.
 
----
-
-## 📷 Dashboard Preview
-
-*(Insert your dashboard image here)*
-
----
 
 ## 🚀 Conclusion
 
